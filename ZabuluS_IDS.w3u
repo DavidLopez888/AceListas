@@ -2026,6 +2026,12 @@
                "name":"UNIVISION MIAMI",
                "image":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png",
                "url":"http://190.92.10.66:4000/play/a005/index.m3u8"
+            },
+,
+            {
+               "name":"Prueba espn",
+               "image":"https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/icons/4.png",
+               "url":"https://cgxheq.fubohd.com/espn2/mono.m3u8?token=5d8a52416f244b89f0d372f0120d42250689d1b8-6-1776432463-1776414463"
             }
          ]
       },
